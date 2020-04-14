@@ -3,15 +3,15 @@ package ru.stqa.sandbox;
 public class MyFirstProgram {
 
 	public static void main(String[] args) {
-		hello("World");
-		hello("User");
-		hello("Yevgeniy");
+		String somebody = "world";
+        System.out.println("Hello " + somebody + "!");
 
+        double l = 8.0;
+        double s = l * l;
+        System.out.println("Площадь квадрата со стороной " + l + " = " + s);
 	}
-	public static class void hello(String somebody) {
 
-    	System.out.println("Hello" + somebody + "!");
-	}
 }
+
 
 
