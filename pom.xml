@@ -7,9 +7,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.pac4j.jax-rs</groupId>
+            <groupId>com.trib3</groupId>
             <artifactId>testing</artifactId>
-            <version>3.0.3</version>
+            <version>1.10.981</version>
         </dependency>
     </dependencies>
 
